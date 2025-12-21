@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://oncesh.github.io/hugo_blog/"
+baseurl = "https://oncesh.github.io"
 languageCode = "zh-cn"
 title = "I am falling, I am fading"
 relativeURLs = true
